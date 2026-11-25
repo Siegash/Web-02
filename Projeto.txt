@@ -1,0 +1,64 @@
+====================================================
+RELATÓRIO FINAL — AGÊNCIA DIGITAL (TEMA 02)
+Estratégia de Conteúdo Avançada
+Data: 25/11/2026, 16:20:04
+Missões concluídas: 12 de 12
+====================================================
+
+🏪 NEGÓCIO ESCOLHIDO
+Nome: Lain Tech
+Tipo: Assistência técnica
+Descrição: Assistência técnica focada em cibersegurança de vazamentos de dados.
+
+----------------------------------------------------
+🎯 MISSÕES PRÁTICAS
+----------------------------------------------------
+[✔] 🎭 Persona
+    → Himel,75 anos, aposentado e procura assistência para verificação de um possível golpe que lhe foi enviado.
+
+[✔] 🎯 Objetivo SMART
+    → Conseguir 20 solicitações por dia
+
+[✔] 🗺️ Jornada do Consumidor
+    → recebe uma mensagem suspeita  → contatar a assistência → usar o verificador da Lain Tech para identificar a fraudes  → ver o resultado e ver possíveis soluções e contatar a empresa para solicitar verificação e as próximas etapas a se seguir. 
+
+[✔] 💡 Tópicos de Conteúdo
+    →  Sinais de que um link no WhatsApp , Gmail ou mensagem é golpe; o que fazer se seus dados vazaram na internet; como proteger o celular contra invasões; golpes bancários mais comuns contra aposentados; importância da autenticação em dois fatores.
+
+[✔] ✍️ Conteúdo (publicação)
+    → Recebeu uma mensagem suspeita? Veja 3 sinais de que é golpe antes de clicar. Texto: Desconfie sempre de pedidos urgentes de dinheiro, links encurtados desconhecidos e promessas de benefícios fáceis. Nunca informe senhas ou códigos recebidos por SMS. Na dúvida, fale com a Lain Tech para verificarmos a segurança do seu aparelho e dos seus dados.
+
+[✔] 📢 Distribuição
+    → • log da Lain Tech (artigo educativo completo), WhatsApp Business (listas de transmissão com alertas rápidos de golpes) e Facebook e Instagram (carrosséis simples e visuais voltados ao público sênior).
+
+[✔] 🎯 Personalização
+    → Versão A (aposentado/público sênior): "Proteja sua aposentadoria e seus dados contra golpes digitais com ajuda simples e rápida." Versão B (jovem/profissional): "Teve seus dados vazados? Lhe auxiliamos nas próximas etapas para proteger sua contas e dispositivos contra invasões e fraudes."
+
+[✔] 🔍 SEO
+    → Palavra chave: assistência técnica cibersegurança e golpes. Título: Lain Tech | Assistência Técnica em Cibersegurança e Vazamento de Dados. Descrição: Recebeu um link suspeito ou teve dados vazados? A Lain Tech verifica golpes, protege seus dispositivos e garante sua segurança digital.
+
+[✔] ❤️ Engajamento
+    → "Envie o link suspeito para nossa equipe analisar agora mesmo!" + pergunta: "Você já recebeu alguma mensagem estranha tentando aplicar um golpe esta semana?"
+
+[✔] 🔄 Iteração
+    → Medir cliques no botão de contato do WhatsApp e taxa de abertura das mensagens; fazer teste A/B entre títulos de alerta direto vs. títulos educativos; ajustar o formato após 2 semanas conforme o engajamento.
+
+[✔] 🚀 Tendências
+    → Aumento de golpes com clonagem de voz e mensagens por Inteligência Artificial — criar vídeos curtos (Reels/Shorts) de 60 segundos mostrando exemplos reais de áudios falsos e como a família pode se proteger.
+
+[✔] 🕵️ Concorrência
+    → • Concorrente X oferece apenas antivírus corporativo complexo, mas não atende pessoas físicas nem usa linguagem acessível para idosos. Oportunidade: criar guias simples, atendimento humanizado via WhatsApp e SEO focado em "verificar se link é golpe".
+
+----------------------------------------------------
+📄 PÁGINA DE CONTEÚDO (mini-editor)
+----------------------------------------------------
+Título SEO: Lain Tech | Assistência Técnica em Cibersegurança e Vazamento de Dados
+URL amigável: https://seusite.com.br/https://github.com/Siegash
+Meta description: Recebeu um link suspeito ou teve dados vazados? A Lain Tech verifica golpes e lhe auxilia a  garantir sua segurança digital.
+Corpo do conteúdo:
+• Recebeu uma mensagem suspeita? Veja 3 sinais de que é golpe antes de clicar. Desconfie sempre de pedidos urgentes de dinheiro, links encurtados desconhecidos e promessas de benefícios fáceis. Nunca informe senhas ou códigos recebidos por SMS. Na dúvida, fale com a Lain Tech para verificarmos a segurança do seu aparelho e dos seus dados.
+
+
+====================================================
+FIM DO RELATÓRIO
+====================================================
