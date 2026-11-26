@@ -40,7 +40,7 @@ Descrição: Assistência técnica focada em cibersegurança de vazamentos de da
 [✔] ❤️ Engajamento
     → "Envie o link suspeito para nossa equipe analisar agora mesmo!" + pergunta: "Você já recebeu alguma mensagem estranha tentando aplicar um golpe esta semana?"
 
-[✔] 🔄 Iteração
+[✔] 🔄 Interação
     → Medir cliques no botão de contato do WhatsApp e taxa de abertura das mensagens; fazer teste A/B entre títulos de alerta direto vs. títulos educativos; ajustar o formato após 2 semanas conforme o engajamento.
 
 [✔] 🚀 Tendências
